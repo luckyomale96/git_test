@@ -1,0 +1,1 @@
+This is lucky omale's first git project!
